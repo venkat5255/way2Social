@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "AddValues.h"
 //! Project version number for way2Shop.
 FOUNDATION_EXPORT double way2ShopVersionNumber;
 
